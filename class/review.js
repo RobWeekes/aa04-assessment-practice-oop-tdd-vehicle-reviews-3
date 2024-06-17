@@ -1,5 +1,5 @@
-const Vehicle = require('./vehicle');
-const Tester = require('./tester');
+// const Vehicle = require('./vehicle');
+// const Tester = require('./tester');  // only for local testing
 
 class Review {
     constructor(vehicle, tester, rating, text) {
